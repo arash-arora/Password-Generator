@@ -24,11 +24,16 @@ Generate a strong personlized password in here !
 
 <hr>
 
-# Now we've our password but it's not too secure, as there's a pattern we need to shuffle it.
+# Now we've generated our password but it's not too secure, as there's a pattern we need to shuffle it.
 
 ## Step 7 (Shuffling the password)
 > Using shuffle(list) function from random module to shuffle the list
 
 ## Step 8 (Converting the list into the string)
 > Using the join(list) function to convert the list into the string
+
+
+# OUTPUT
+![Password_Generator](https://user-images.githubusercontent.com/52750629/105999556-db630e00-60d3-11eb-92b7-40444e836f71.PNG)
+
 
